@@ -10,7 +10,11 @@
   "author": "Naren",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.3",
     "node-pg-migrate": "^6.2.1",
     "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
   }
 }
